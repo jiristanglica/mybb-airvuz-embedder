@@ -17,7 +17,7 @@ function airvuz_embedder_info()
     return [
         "name"          => "AirVuz Embedder",
         "description"   => "Converts AirVuz links to embedded video.",
-        "website"       => "https://github.com/jiristanglica",
+        "website"       => "https://github.com/jiristanglica/mybb-airvuz-embedder",
         "author"		=> "izzy26",
         "authorsite"	=> "https://github.com/jiristanglica",
         "version"		=> "1.0",
